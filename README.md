@@ -10,7 +10,7 @@ O objetivo é reunir minhas informações em um único site, utilizando HTML, CS
 
 ## 🌐 Link do site publicado
 
-**GitHub Pages:** [INSERIR AQUI O LINK DO SITE PUBLICADO]
+**GitHub Page:** https://shane-technology.github.io/Portfolio/
 
 **Repositório:** https://github.com/Shane-Technology/portfolio
 
