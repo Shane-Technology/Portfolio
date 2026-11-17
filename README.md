@@ -30,11 +30,11 @@ O layout utiliza recursos do Bootstrap para organizar os elementos e adaptar a a
 
 ## ✨ Recurso novo adicionado
 
-**Efeito luminoso nos cards da seção de projetos.**
+**Efeito luminoso nos cards da seção de projetos e botões com efeito luminoso.**
 
-Como recurso adicional ao modelo desenvolvido em aula, implementei um efeito visual nos cartões da seção de projetos.
+Como recurso adicional ao modelo desenvolvido da apostila, implementei um efeito visual nos cartões da seção de projetos e nos botões.
 
-Quando o visitante posiciona o cursor sobre um dos cards, ele recebe um brilho roxo ao redor e aumenta levemente de tamanho, criando uma interação visual.
+Quando o visitante posiciona o cursor sobre um dos cards, ele recebe um brilho roxo ao redor enquanto os botões recebem um brilho amarelo clarinho e ambos aumentam levemente de tamanho, criando uma interação visual.
 
 ## 💡 Como o recurso foi implementado
 
